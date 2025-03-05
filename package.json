@@ -50,7 +50,7 @@
     "tailwindcss": "^3.4.13"
   },
   "engines": {
-    "node": "16.x",
+    "node": "18.x",
     "npm": "7.x"
 }
 
