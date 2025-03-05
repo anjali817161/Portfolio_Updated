@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.349c2ab9.css",
+    "main.js": "/static/js/main.ba037534.js",
+    "static/media/ReactCertificate.jpg.jpeg": "/static/media/ReactCertificate.jpg.32d75e245c0dae6f5c39.jpeg",
+    "static/media/BackendCertificate.jpg.jpeg": "/static/media/BackendCertificate.jpg.eb9c1d71f78fdf17d406.jpeg",
+    "static/media/FrontendCertificate.jpg.jpeg": "/static/media/FrontendCertificate.jpg.01c4cda0e55fba0c21f8.jpeg",
+    "static/media/DSACertificate.jpg.jpeg": "/static/media/DSACertificate.jpg.2b0334cffd4bb802568f.jpeg",
+    "static/media/JavaCertificate.jpg.jpeg": "/static/media/JavaCertificate.jpg.cb27932eb306d86700c7.jpeg",
+    "static/media/GenerativeAI_Certificate.jpg.jpeg": "/static/media/GenerativeAI_Certificate.jpg.3a9d96e91446c7abf020.jpeg",
+    "static/media/Profile.jpg.jpeg": "/static/media/Profile.jpg.0f96db871c136aab1b0f.jpeg",
+    "index.html": "/index.html",
+    "main.349c2ab9.css.map": "/static/css/main.349c2ab9.css.map",
+    "main.ba037534.js.map": "/static/js/main.ba037534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349c2ab9.css",
+    "static/js/main.ba037534.js"
+  ]
+}
