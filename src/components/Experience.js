@@ -65,7 +65,7 @@ export default function Experience() {
               <ul className='list-disc mx-4 md:mx-0 space-y-3 md:space-y-5 marker:text-teal-500'>
                 <li>
                   <h2 className="text-sm md:text-lg">
-                    Working as an intern at{' '}
+                    Working as an Frontend Developer at{' '}
                     <span className="text-teal-500 md:text-xl">KriptoBytes</span>
                   </h2>
                 </li>
